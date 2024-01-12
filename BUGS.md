@@ -1,0 +1,4 @@
+- Les documents ne sont pas toujours reconnus
+- Les URLs des articles ne sont pas toujours récupérées (requêter plusieurs fois en cas d'erreur pourrait résoudre le problème)
+- Tous les articles trouvés lors de la recherche manuelle ne le sont pas par le script
+- Un problème d'accès empêche parfois la sauvegarde du document

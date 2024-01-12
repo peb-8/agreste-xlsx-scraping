@@ -1,0 +1,7 @@
+- Implementation des tests (pystest)
+- Requêtes asynchrones pour améliorer la vitesse de téléchargement des documents (aiohttp)
+- Utiliser un module de log
+- Utiliser des regex pour reconnaître les différents schémas des expressions
+- Tenir à jour un fichier indiquant l'état de chaque ressource et fournissant des méta informations
+- Permettre l'utilisation en ligne de commande et pouvoir passer les paramètres d'execution
+- Permettre de changer le répertoire de sauvegarde
